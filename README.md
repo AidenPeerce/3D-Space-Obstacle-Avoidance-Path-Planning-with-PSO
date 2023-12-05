@@ -6,11 +6,13 @@ Project Overview
 Objective: To efficiently and accurately plan paths from a starting point to a destination in 3D space using the PSO algorithm.
 Application Areas: Unmanned aerial vehicle (UAV) route planning, autonomous vehicle navigation systems, robot path planning, etc.
 Core Challenge: To find the optimal or near-optimal path while considering various practical constraints, such as obstacles and path smoothness.
+
 Features
 
 Swarm Intelligence: Utilizing the collective wisdom of a particle swarm, simulating the social cooperation behavior of organisms in nature.
 Efficient Algorithm: The PSO algorithm is simple in structure, with few parameters, easy to implement, and suitable for solving complex optimization problems.
 Applicability: Capable of being applied in various 3D environments, including but not limited to urban settings, mountainous terrains, etc.
+
 Implementation Details
 
 Particle Representation: Each particle represents a potential path, encoded by its position and velocity.
