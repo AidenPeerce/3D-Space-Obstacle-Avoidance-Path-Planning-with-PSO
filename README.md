@@ -20,7 +20,7 @@ Fitness Function: A fitness evaluation mechanism is defined to assess the qualit
 Iterative Optimization: Through continuous iterations, particles adjust their paths based on individual and collective experiences, gradually converging to the optimal solution.
 
 
-本项目旨在探索并实现粒子群优化算法（Particle Swarm Optimization, PSO）在三维空间路径规划领域的应用。PSO是一种模拟社会行为的群体智能算法，它的基本原理是通过模拟鸟群、鱼群等群体的行为来处理优化问题。在三维空间路径规划问题中，PSO被用于寻找从起点到终点的最优路径，同时考虑到避障、最短路径长度、路径平滑性等因素。
+本项目旨在探索并实现粒子群优化算法（Particle Swarm Optimization, PSO）在三维空间避障路径规划领域的应用。PSO是一种模拟社会行为的群体智能算法，它的基本原理是通过模拟鸟群、鱼群等群体的行为来处理优化问题。在三维空间路径规划问题中，PSO被用于寻找从起点到终点的最优路径，同时考虑到避障、最短路径长度、路径平滑性等因素。
 项目概述
 目标：利用PSO算法在三维空间中高效、准确地规划出从起点到终点的路径。
 应用领域：无人机航线规划、自动驾驶汽车导航系统、机器人路径规划等。
