@@ -1,5 +1,5 @@
 # - 粒子群三维空间路径规划-初始版本
-This project aims to explore and implement the Particle Swarm Optimization (PSO) algorithm in the field of 3D space path planning. PSO is a swarm intelligence algorithm that simulates social behavior, and its principle is based on mimicking the behavior of groups such as flocks of birds or schools of fish to solve optimization problems. In 3D space path planning, PSO is utilized to find the optimal path from a starting point to a destination, taking into account factors such as obstacle avoidance, shortest path length, and path smoothness.
+This project aims to explore and implement the Particle Swarm Optimization (PSO) algorithm in the field of 3D space obstacle avoidance path planning. PSO is a swarm intelligence algorithm that simulates social behavior, and its principle is based on mimicking the behavior of groups such as flocks of birds or schools of fish to solve optimization problems. In 3D space path planning, PSO is utilized to find the optimal path from a starting point to a destination, taking into account factors such as obstacle avoidance, shortest path length, and path smoothness.
 
 Project Overview
 
